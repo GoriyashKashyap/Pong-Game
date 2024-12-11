@@ -39,35 +39,4 @@ Welcome to my **Pong Game** project! 🏓 This is a remake of the classic arcade
    git clone https://github.com/<your-username>/pong-game.git
 2.Navigate to the project folder
    ```bash
-        cd pong-game
-3.Run the game with Love2D :
-   ```bash
-      love .
-## 🛠️ Built With
-   -**Lua**: A lightweight scripting language designed for embedded use.
-   -**Love2D**: A framework for creating 2D games in Lua.
-📚 What I Learned
-How to implement game loops for smooth frame updates.
-Handling user input for paddle movement.
-Collision detection between ball, paddles, and walls.
-Creating a scoreboard and managing game states.
-🎯 Future Enhancements
-Add sound effects for paddle hits and scoring.
-Include additional game modes (e.g., Single Player).
-Add visual effects like paddle trails or ball glow.
-Implement power-ups for exciting gameplay twists.
-🖼️ Preview
-Here’s a quick preview of the game in action:
-
-
-(Replace the placeholder URL with an actual screenshot from your game.)
-
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check out the issues page.
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-🎉 Acknowledgments
-Thanks to the Love2D community for their amazing framework and resources.
-Inspired by the timeless classic Pong.
+    cd pong-game
