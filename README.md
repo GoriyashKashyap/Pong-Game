@@ -49,3 +49,8 @@ Welcome to my **Pong Game** project! 🏓 This is a remake of the classic arcade
 - **Leaderboards**: Track and display high scores to add a competitive element.
 - **Power-Ups**: Introduce gameplay twists like speed boosts, paddle shrinkers, or ball multipliers.
 
+## 🖼️ Preview
+
+Here’s a quick preview of the game in action:
+
+![Pong Game Screenshot](/preview.png)
