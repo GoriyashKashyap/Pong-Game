@@ -24,8 +24,6 @@ Welcome to my **Pong Game** project! 🏓 This is a remake of the classic arcade
    - Hit the ball past your opponent’s paddle to score points.
    - First to reach the winning score wins!
 
-3. **Restart**: Press `R` at any time to restart the game.
-
 ---
 
 ## 🚀 Getting Started
